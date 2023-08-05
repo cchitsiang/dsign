@@ -63,12 +63,7 @@
       </a>
     </div>
     <div class="text-center mt-4">
-      Signed with
-      <a
-        href="https://www.docuseal.co"
-        target="_blank"
-        class="underline"
-      >DocuSeal</a> - open source documents software
+      Signed with DSign
     </div>
   </div>
 </template>
